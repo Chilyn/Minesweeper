@@ -1,2 +1,2 @@
 # Minesweeper
-a Minesweeper game for android
+A minesweeper game for android
